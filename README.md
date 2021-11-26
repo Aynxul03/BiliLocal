@@ -1,10 +1,10 @@
 BiliLocal
 ---
-为本地视频添加弹幕
+一个支持在播放本地视频的同时看到弹幕的视频播放器。A video player that enable you to enjoy danmaku when playing local videos
 
-下载：[Latest Release](https://github.com/Ayx03/BiliLocal/releases/latest)
+下载最新版构建：[Latest Release](https://github.com/Ayx03/BiliLocal/releases/latest)
 
-Add danmaku to local videos
+软件截图
 
 ![](res/00.jpg)
 
