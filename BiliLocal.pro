@@ -10,6 +10,12 @@ TEMPLATE = app
 
 CONFIG += c++11
 
+INCLUDEPATH += \
+    C:/msys64/usr/local/include
+
+LIBS += \
+    -LC:/msys64/usr/local/lib
+
 SOURCES += \
     src/Access/Load.cpp \
     src/Access/NetworkConfiguration.cpp \
