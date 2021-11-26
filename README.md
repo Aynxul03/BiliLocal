@@ -1,5 +1,6 @@
 BiliLocal
 =========
+为本地视频添加弹幕
 
 Add danmaku to local videos
 
@@ -9,4 +10,4 @@ Add danmaku to local videos
 
 ![W](res/02.jpg)
 
-Download: http://pan.baidu.com/s/1kV6PMF9
+Download: Coming soon
