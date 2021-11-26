@@ -331,7 +331,7 @@ QString Utils::customUrl(Site site)
 		return QString();
 	}
 	QStringList urls, defs;
-	defs << "acfun.tv" << "bilibili.com" << "tucao.tv";
+	defs << "acfun.cn" << "bilibili.com" << "tucao.one";
 	urls = Config::getValue("/Network/Url", defs.join(';')).split(';', QString::SkipEmptyParts);
 	for (QString iter : urls + defs){
 		if (iter.toLower().indexOf(name) != -1){
