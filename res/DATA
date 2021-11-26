@@ -52,10 +52,10 @@
         "99": "特摄·霹雳"
     },
 	"Logo": {
-		"DirectX": "http://upload.wikimedia.org/wikipedia/commons/1/11/DirectX_logo.png",
-		"FFmpeg": "http://www.ffmpeg.org/ffmpeg-logo.png",
+		"DirectX": "https://upload.wikimedia.org/wikipedia/commons/1/11/DirectX_logo.png",
+		"FFmpeg": "https://www.ffmpeg.org/ffmpeg-logo.png",
 	    "OpenGL": "https://www.khronos.org/assets/uploads/ceimg/made/assets/uploads/apis/OpenGL-ES_300_199_75.png",
-		"VLC": "http://images.videolan.org/images/logoOrange.png"
+		"VLC": "https://images.videolan.org/images/logoOrange.png"
 	},
     "Version": "0.4.2"
 }
