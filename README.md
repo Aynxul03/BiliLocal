@@ -2,7 +2,7 @@ BiliLocal
 ---
 一个支持在播放本地视频的同时加载弹幕的视频播放器。
 
-A video player that enable you to enjoy danmaku when playing local videos.
+A video player that enable you to load danmaku when playing local videos.
 
 下载由 esterTion 编译的最新发行版：
 
